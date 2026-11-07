@@ -1,0 +1,5 @@
+.git                 export-ignore
+.gitattributes       export-ignore
+
+LICENSE              export-ignore
+archive.sh           export-ignore
